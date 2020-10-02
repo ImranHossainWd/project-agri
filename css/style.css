@@ -1,0 +1,67 @@
+/* ************************
+Heading Section
+*************************** */
+h1{
+	color:green; 
+}
+
+
+
+/* ************************
+More Section
+*************************** */
+.more{
+	padding:80px 0;
+}
+.more-content h1 {
+    margin: 10px 0 40px;
+    font-size: 73px;
+}
+.more-content p{
+	font-size: 18px;
+}
+.more-content button{
+	margin-top: 30px;
+}
+
+/* ************************
+Service Section
+*************************** */
+.service{
+	padding:80px 0;
+}
+.service-content{
+	padding:20px;
+}
+.service-content p{
+	margin-bottom: 40px;
+}
+.service-content .btn{
+	margin-top: 50px;
+}
+
+/* ************************
+footer Section
+*************************** */
+.footer{
+	background: rgb(230,247,176);
+}
+.footer-social{
+
+}
+.footer-social ul{
+	float: left;
+	overflow: hidden;
+}
+.footer-social ul li{
+	list-style: none;
+	float: left;
+}
+.footer-social ul li a{
+	text-decoration: none;
+	margin-right: 20px;
+	padding: 10px;
+	background: gray;
+	color: white;
+
+}
